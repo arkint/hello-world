@@ -1,2 +1,2 @@
 # hello-world
-Getting things stated
+Getting things started
